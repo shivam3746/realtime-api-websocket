@@ -44,6 +44,9 @@ $ npm run start:dev
 # production mode
 $ npm run start:prod
 ```
+### Note
+
+Please make sure you have PostgreSQL already up and running on your local machine and please configure the db settings in ormconfig.json file accordingly.
 
 ## Test
 
